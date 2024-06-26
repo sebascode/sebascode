@@ -18,7 +18,7 @@
 
 - 📫 Me puedes escribir a **swf.sebas@gmail.com**
 
-- 📄 Mi experiencia la puedes encontrar en [https://www.linkedin.com/in/sebasti%C3%A1n-contreras-bravo-a07a3847/](https://www.linkedin.com/in/sebasti%C3%A1n-contreras-bravo-a07a3847/)
+- 📄 Mi experiencia la puedes encontrar en [LinkedIn](https://www.linkedin.com/in/sebascontrerasb/)
 
 - ⚡ Fun fact **Soy nacido en Argentina, pero criado en Chile**
 
