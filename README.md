@@ -10,7 +10,7 @@
 
 - 🔭 Actualmente trabajo en **Accenture**
 
-- 🔭 Enseño en **Duoc UC, San Joaquín**
+- 🔭 Daba clases de Informática en **Duoc UC, San Joaquín**
 
 - 👨‍💻 Todos mis demos de código están disponibles en [https://www.github.com/sebascode](https://www.github.com/sebascode)
 
