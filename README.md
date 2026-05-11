@@ -26,7 +26,7 @@ Arquitecto de Soluciones con más de **12 años de experiencia** en tecnología,
 
 - 🏗️ **Arquitectura empresarial** con ArchiMate/TOGAF — modelado en Archi, alineado con Architect Solutions Azure Certificates
 - ☁️ **Cloud-first** con fuerte énfasis en **Azure**, y experiencia en AWS y GCP
-- 🔭 Proyectos actuales: **SpoectraControl** (Control y sincronización de luces RGB Phillip Hue) y **SSRP** (sistema de horas para gestión de contratistas y gestión por riesgos de proyectos)
+- 🔭 Proyectos actuales: **SpectraControl** (Control y sincronización de luces RGB Phillip Hue) y **SSRP** (sistema de horas para gestión de contratistas y gestión por riesgos de proyectos)
 - 📡 Observabilidad con **New Relic** y **Splunk**
 - 🤖 Interesado en IIoT, automatización y aplicaciones de IA en industria
 - 🎓 Ex-docente de Informática en **Duoc UC** · AI Diploma en **Universidad Católica de Chile**
