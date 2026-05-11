@@ -24,16 +24,16 @@
 
 Arquitecto de Soluciones con más de **12 años de experiencia** en tecnología, actualmente trabajando en **Accenture** en la cuenta **BHP** (minería). Me especializo en la intersección entre arquitectura empresarial, cloud y DevOps, con foco en soluciones industriales críticas.
 
-- 🏗️ **Arquitectura empresarial** con ArchiMate/TOGAF — modelado en Archi, alineado con BHP Licence to Architect
+- 🏗️ **Arquitectura empresarial** con ArchiMate/TOGAF — modelado en Archi, alineado con Architect Solutions Azure Certificates
 - ☁️ **Cloud-first** con fuerte énfasis en **Azure**, y experiencia en AWS y GCP
-- 🔭 Proyectos actuales: **SML** (monitoreo de relaves para SERNAGEOMIN) y **SIH** (sistema de horas contratistas)
+- 🔭 Proyectos actuales: **SpoectraControl** (Control y sincronización de luces RGB Phillip Hue) y **SSRP** (sistema de horas para gestión de contratistas y gestión por riesgos de proyectos)
 - 📡 Observabilidad con **New Relic** y **Splunk**
 - 🤖 Interesado en IIoT, automatización y aplicaciones de IA en industria
-- 🎓 Ex-docente de Informática en **Duoc UC** · AI Diploma en **Universidad Católica**
+- 🎓 Ex-docente de Informática en **Duoc UC** · AI Diploma en **Universidad Católica de Chile**
 
 ---
 
-## 🛠️ Stack & Herramientas
+## Stack & Herramientas
 
 ### ☁️ Cloud & Infraestructura
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
@@ -80,23 +80,9 @@ Arquitecto de Soluciones con más de **12 años de experiencia** en tecnología,
 
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
-| **SML** | Sistema de monitoreo de relaves para SERNAGEOMIN (BHP) · IIoT crítico | Azure · PostgreSQL · Docker |
-| **SIH** | Sistema de gestión de horas para contratistas BHP | Azure · .NET · SQL Server |
-| **Observabilidad BHP** | Arquitectura de observabilidad corporativa multi-fuente | New Relic · Splunk · Azure |
+| **Observabilidad** | Arquitectura de observabilidad corporativa multi-fuente | New Relic · Splunk · Azure |
 | **CargabilidadBot** | Bot Teams + Power Automate para gestión de asignaciones y timesheet | Power Platform · Teams |
 | **Jenkins Shared Library** | Arquitectura de 3 capas para migración DevOps bancaria (280+ pipelines) | Jenkins · Groovy · Azure DevOps |
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sebascode&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sebascode&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
