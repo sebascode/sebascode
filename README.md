@@ -22,7 +22,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Arquitecto de Soluciones con más de **12 años de experiencia** en tecnología, actualmente trabajando en **Accenture** en la cuenta **BHP** (minería). Me especializo en la intersección entre arquitectura empresarial, cloud y DevOps, con foco en soluciones industriales críticas.
+Arquitecto de Soluciones con más de **12 años de experiencia** en tecnología, actualmente trabajando en **Accenture** en la cuentas asociadas a banking y minería. Me especializo en la intersección entre arquitectura empresarial, cloud y DevOps, con foco en soluciones industriales críticas.
 
 - 🏗️ **Arquitectura empresarial** con ArchiMate/TOGAF — modelado en Archi, alineado con Architect Solutions Azure Certificates
 - ☁️ **Cloud-first** con fuerte énfasis en **Azure**, y experiencia en AWS y GCP
